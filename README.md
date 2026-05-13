@@ -43,7 +43,12 @@ STM32H7 기반 Thermal Camera 프로젝트
 ---
 
 ## img
-<img width="300" height="200"  src="Img/mlx90640_.jpeg" />
+<img width="300" height="200" alt="main" src="https://github.com/user-attachments/assets/aeacfbe0-82c1-4b9b-a08c-c4e2b5af78ca" />
+<img width="300" height="200" alt="ov7670" src="https://github.com/user-attachments/assets/8e0eb4c3-1204-43c9-bee3-9fd6ae7cd20f" />
+<img width="300" height="200" alt="mlx90640_1" src="https://github.com/user-attachments/assets/de014726-b0e4-4673-b7c4-4c3649844d45" />
+<img width="300" height="200" alt="auto_range" src="https://github.com/user-attachments/assets/5ded769a-0817-4378-a54c-a6732bcbe403" />
+<img width="300" height="200" alt="setting_page" src="https://github.com/user-attachments/assets/2947fe8f-f27c-4126-8f55-59ce80472451" />
+<img width="300" height="200" alt="bpm" src="https://github.com/user-attachments/assets/29f6a612-3d63-4a09-b5db-193c5de18651" />
 
 
 ## Future Work
@@ -55,4 +60,5 @@ STM32H7 기반 Thermal Camera 프로젝트
 - Higher FPS Thermal Sensor 적용
 - GUI 개선
 - Thermal Image Optimization
+- 실시간 BPM 측정으로 변경(그래프화)
 - OV7670기반 green img 기반 BPM 추출
