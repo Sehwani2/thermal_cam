@@ -1,0 +1,2 @@
+../APP/ap/modules/common/cli/cli_thread.c:6:6:cliThreadInit	8	static
+../APP/ap/modules/common/cli/cli_thread.c:14:6:cliThread	16	static

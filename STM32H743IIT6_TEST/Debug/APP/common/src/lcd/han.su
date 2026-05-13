@@ -1,0 +1,5 @@
+../APP/common/src/lcd/han.c:24:10:hanFontLoad	24	static
+../APP/common/src/lcd/han.c:73:6:hanWanFontLoad	24	static
+../APP/common/src/lcd/han.c:114:6:hanUniFontLoad	24	static
+../APP/common/src/lcd/han.c:161:6:hanEngFontLoad	24	static
+../APP/common/src/lcd/han.c:176:10:hanCnvCodeWan2Johab	24	static

@@ -1,0 +1,6 @@
+C:/stm32/balancing_robot/STM32H743IIT6_TEST/APP/common/include/lcd/thermal_palette_common.h:38:31:get_current_palette	9
+../APP/hw/src/MLX90640.c:35:5:MLX90640_Init	3
+../APP/hw/src/MLX90640.c:57:5:MLX90640_ReadFrame	2
+../APP/hw/src/MLX90640.c:86:10:TempToRGB565	8
+../APP/hw/src/MLX90640.c:131:10:TempToRGB565_Fixed	3
+../APP/hw/src/MLX90640.c:186:6:BilinearInterpolate_MLX90640	9

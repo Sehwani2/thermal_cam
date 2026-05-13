@@ -1,0 +1,10 @@
+../APP/hw/src/ov7670.c:43:7:CamGetFrameBuffer	1
+../APP/hw/src/ov7670.c:50:19:ov7670_init	1
+../APP/hw/src/ov7670.c:72:19:ov7670_config	3
+../APP/hw/src/ov7670.c:91:19:ov7670_startCap	3
+../APP/hw/src/ov7670.c:108:19:ov7670_stopCap	1
+../APP/hw/src/ov7670.c:114:6:ov7670_registerCallback	1
+../APP/hw/src/ov7670.c:120:6:HAL_DCMI_FrameEventCallback	3
+../APP/hw/src/ov7670.c:131:6:HAL_DCMI_VsyncEventCallback	3
+../APP/hw/src/ov7670.c:146:19:ov7670_write	1
+../APP/hw/src/ov7670.c:155:19:ov7670_read	1

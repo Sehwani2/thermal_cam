@@ -1,0 +1,72 @@
+#ifndef ST7796_REGS_H_
+#define ST7796_REGS_H_
+
+#define INITR_GREENTAB      0x0
+#define INITR_REDTAB        0x1
+#define INITR_BLACKTAB      0x2
+
+#define INITR_18GREENTAB    INITR_GREENTAB
+#define INITR_18REDTAB      INITR_REDTAB
+#define INITR_18BLACKTAB    INITR_BLACKTAB
+#define INITR_144GREENTAB   0x1
+
+
+#define ST7796_NOP     0x00
+#define ST7796_SWRESET 0x01
+#define ST7796_RDDID   0x04
+#define ST7796_RDDST   0x09
+
+#define ST7796_SLPIN   0x10
+#define ST7796_SLPOUT  0x11
+#define ST7796_PTLON   0x12
+#define ST7796_NORON   0x13
+
+#define ST7796_INVOFF  0x20
+#define ST7796_INVON   0x21
+#define ST7796_DISPOFF 0x28
+#define ST7796_DISPON  0x29
+#define ST7796_CASET   0x2A
+#define ST7796_RASET   0x2B
+#define ST7796_RAMWR   0x2C
+#define ST7796_RAMRD   0x2E
+
+#define ST7796_PTLAR   0x30
+#define ST7796_COLMOD  0x3A
+#define ST7796_MADCTL  0x36
+
+#define ST7796_FRMCTR1 0xB1
+#define ST7796_FRMCTR2 0xB2
+#define ST7796_FRMCTR3 0xB3
+#define ST7796_INVCTR  0xB4
+#define ST7796_DISSET5 0xB6
+
+#define ST7796_PWCTR1  0xC0
+#define ST7796_PWCTR2  0xC1
+#define ST7796_PWCTR3  0xC2
+#define ST7796_PWCTR4  0xC3
+#define ST7796_PWCTR5  0xC4
+#define ST7796_VMCTR1  0xC5
+
+#define ST7796_RDID1   0xDA
+#define ST7796_RDID2   0xDB
+#define ST7796_RDID3   0xDC
+#define ST7796_RDID4   0xDD
+
+#define ST7796_PWCTR6  0xFC
+
+#define ST7796_GMCTRP1 0xE0
+#define ST7796_GMCTRN1 0xE1
+
+// Color definitions
+#define ST7796_BLACK   0x0000
+#define ST7796_BLUE    0x001F
+#define ST7796_RED     0xF800
+#define ST7796_GREEN   0x07E0
+#define ST7796_CYAN    0x07FF
+#define ST7796_MAGENTA 0xF81F
+#define ST7796_YELLOW  0xFFE0
+#define ST7796_WHITE   0xFFFF
+
+
+
+#endif

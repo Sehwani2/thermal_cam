@@ -1,0 +1,5 @@
+../APP/hw/src/lvgl/lv_port_disp.c:45:6:lv_port_disp_init	1
+../APP/hw/src/lvgl/lv_port_disp.c:69:13:disp_init	1
+../APP/hw/src/lvgl/lv_port_disp.c:78:6:disp_enable_update	1
+../APP/hw/src/lvgl/lv_port_disp.c:85:6:disp_disable_update	1
+../APP/hw/src/lvgl/lv_port_disp.c:94:13:disp_flush	3

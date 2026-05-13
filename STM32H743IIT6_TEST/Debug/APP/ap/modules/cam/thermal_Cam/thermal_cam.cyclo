@@ -1,0 +1,5 @@
+../APP/ap/modules/cam/thermal_Cam/thermal_cam.c:31:6:thermalInit	1
+../APP/ap/modules/cam/thermal_Cam/thermal_cam.c:43:6:thermalThread	5
+../APP/ap/modules/cam/thermal_Cam/thermal_cam.c:74:6:BPMThread2	20
+../APP/ap/modules/cam/thermal_Cam/thermal_cam.c:226:14:get_face_avg_temp	5
+../APP/ap/modules/cam/thermal_Cam/thermal_cam.c:257:13:cliMLXCAM	9

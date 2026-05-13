@@ -1,0 +1,16 @@
+../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_spi.h:1397:22:LL_SPI_SetDataWidth	16	static
+../APP/hw/src/st7735s.c:51:6:st7735sInit	16	static
+../APP/hw/src/st7735s.c:72:6:st7735sReset	16	static
+../APP/hw/src/st7735s.c:90:6:st7735sDoneISR	16	static
+../APP/hw/src/st7735s.c:102:6:st7735sInitRegs	8	static
+../APP/hw/src/st7735s.c:162:6:writecommand	16	static
+../APP/hw/src/st7735s.c:172:6:writedata	16	static
+../APP/hw/src/st7735s.c:185:6:st7735sSetRotation	16	static
+../APP/hw/src/st7735s.c:209:6:st7735sIsReady	4	static
+../APP/hw/src/st7735s.c:214:10:st7735sGetWidth	4	static
+../APP/hw/src/st7735s.c:219:10:st7735sGetHeight	4	static
+../APP/hw/src/st7735s.c:225:6:st7735sGetInfo	16	static
+../APP/hw/src/st7735s.c:231:6:st7735_SetWindow	24	static
+../APP/hw/src/st7735s.c:252:6:st7735sSendBuffer	24	static
+../APP/hw/src/st7735s.c:270:6:st7735sFillRect	64	dynamic
+../APP/hw/src/st7735s.c:312:6:cliCmd	48	static

@@ -1,0 +1,4 @@
+../APP/common/src/util.c:7:10:utilConvert8ToU32	24	static
+../APP/common/src/util.c:20:10:utilConvert8ToU16	24	static
+../APP/common/src/util.c:72:6:utilUpdateCrc	24	static
+../APP/common/src/util.c:83:10:utilCalcCRC	40	static

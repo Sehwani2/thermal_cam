@@ -1,0 +1,5 @@
+C:/stm32/balancing_robot/STM32H743IIT6_TEST/APP/lib/lvgl/src/lv_api_map_v8.h:75:51:lv_task_handler	8	static
+../APP/hw/src/lvgl.c:15:6:lvglInit	40	static
+../APP/hw/src/lvgl.c:43:6:lvglDeInit	4	static
+../APP/hw/src/lvgl.c:48:6:lvglUpdate	8	static
+../APP/hw/src/lvgl.c:60:6:cliCmd	24	static

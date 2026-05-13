@@ -1,0 +1,6 @@
+../APP/hw/src/gpio.c:38:6:gpioInit	2
+../APP/hw/src/gpio.c:56:6:gpioPinMode	1
+../APP/hw/src/gpio.c:62:6:gpioPinWrite	3
+../APP/hw/src/gpio.c:79:9:gpioPinRead	3
+../APP/hw/src/gpio.c:96:6:gpioPinToggle	2
+../APP/hw/src/gpio.c:107:6:cliGpio	11

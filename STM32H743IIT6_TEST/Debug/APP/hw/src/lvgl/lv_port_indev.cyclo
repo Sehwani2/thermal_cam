@@ -1,0 +1,5 @@
+../APP/hw/src/lvgl/lv_port_indev.c:44:6:lv_port_indev_init	1
+../APP/hw/src/lvgl/lv_port_indev.c:69:13:touchpad_init	1
+../APP/hw/src/lvgl/lv_port_indev.c:76:13:touchpad_read	2
+../APP/hw/src/lvgl/lv_port_indev.c:99:13:touchpad_is_pressed	1
+../APP/hw/src/lvgl/lv_port_indev.c:107:13:touchpad_get_xy	1

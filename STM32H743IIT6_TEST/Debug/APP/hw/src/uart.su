@@ -1,0 +1,13 @@
+../APP/hw/src/uart.c:59:6:uartInit	16	static
+../APP/hw/src/uart.c:74:6:uartDeInit	4	static
+../APP/hw/src/uart.c:79:6:uartIsInit	4	static
+../APP/hw/src/uart.c:84:6:uartOpen	24	static
+../APP/hw/src/uart.c:148:6:uartClose	16	static
+../APP/hw/src/uart.c:157:10:uartAvailable	24	static
+../APP/hw/src/uart.c:174:6:uartFlush	24	static
+../APP/hw/src/uart.c:192:9:uartRead	24	static
+../APP/hw/src/uart.c:214:10:uartWrite	32	static
+../APP/hw/src/uart.c:239:10:uartPrintf	292	static
+../APP/hw/src/uart.c:257:10:uartGetBaud	24	static
+../APP/hw/src/uart.c:269:10:uartGetRxCnt	16	static
+../APP/hw/src/uart.c:276:10:uartGetTxCnt	16	static

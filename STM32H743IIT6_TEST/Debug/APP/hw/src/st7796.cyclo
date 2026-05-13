@@ -1,0 +1,16 @@
+../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_spi.h:1397:22:LL_SPI_SetDataWidth	1
+../APP/hw/src/st7796.c:57:6:st7796Init	2
+../APP/hw/src/st7796.c:90:6:st7796IsReady	1
+../APP/hw/src/st7796.c:95:6:st7796GetInfo	1
+../APP/hw/src/st7796.c:100:6:st7796Reset	1
+../APP/hw/src/st7796.c:116:10:st7796GetWidth	1
+../APP/hw/src/st7796.c:121:10:st7796GetHeight	1
+../APP/hw/src/st7796.c:126:6:writecommand	1
+../APP/hw/src/st7796.c:136:6:writedata	1
+../APP/hw/src/st7796.c:146:6:st7796InitRegs	1
+../APP/hw/src/st7796.c:260:6:st7796SetRotation	5
+../APP/hw/src/st7796.c:285:6:st7796SetWindow	1
+../APP/hw/src/st7796.c:302:6:st7796FillRect	11
+../APP/hw/src/st7796.c:392:6:st7796SendBuffer	3
+../APP/hw/src/st7796.c:421:6:HAL_SPI_TxCpltCallback	3
+../APP/hw/src/st7796.c:452:6:cliCmd	11

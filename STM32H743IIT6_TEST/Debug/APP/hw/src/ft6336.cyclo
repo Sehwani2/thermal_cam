@@ -1,0 +1,7 @@
+../APP/hw/src/ft6336.c:29:9:FT6336_WR_Reg	2
+../APP/hw/src/ft6336.c:47:9:FT6336_RD_Reg	2
+../APP/hw/src/ft6336.c:69:9:FT6336_Init	2
+../APP/hw/src/ft6336.c:97:9:FT6336_Scan	12
+../APP/hw/src/ft6336.c:162:9:touch_Init	2
+../APP/hw/src/ft6336.c:171:9:touch_is_pressed	1
+../APP/hw/src/ft6336.c:176:9:touch_get_xy	1

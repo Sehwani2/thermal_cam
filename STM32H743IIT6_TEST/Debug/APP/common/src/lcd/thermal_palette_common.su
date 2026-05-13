@@ -1,0 +1,3 @@
+C:/stm32/balancing_robot/STM32H743IIT6_TEST/APP/common/include/lcd/thermal_palette_common.h:38:31:get_current_palette	4	static
+../APP/common/src/lcd/thermal_palette_common.c:11:6:palette_generate	32	static
+../APP/common/src/lcd/thermal_palette_common.c:28:7:colorbarGetFrameBuffer	4	static
